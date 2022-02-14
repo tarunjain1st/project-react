@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "Name": "New Test",
+      "Gender": "Malle",
+      "Dob": "2021-08-19",
+      "Health Complications": "Blanl",
+      "Patient Status": "Test",
+      "Check in": "Aug 19,2021"
+    },
+    {
+      "id": "2",
+      "Name": "Goutam",
+      "Gender": "Male",
+      "Dob": "Aug 17,2021",
+      "Health Complications": "Fever",
+      "Patient Status": "Normal",
+      "Check in": "Aug 19,2021"
+    },
+    {
+      "id": "3",
+      "Name": "Goutam",
+      "Gender": "Male",
+      "Dob": "Aug 17,2021",
+      "Health Complications": "Fever",
+      "Patient Status": "Normal",
+      "Check in": "Aug 19,2021"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Jhon Doe",
+      "email": "jhon@example.com"
+    }
+  ]
+}
